@@ -1,0 +1,3 @@
+[submodule "02-ecomm"]
+	path = 02-ecomm
+	url = https://github.com/Juandavid9909/reactMicrofrontendsEcommerce.git
